@@ -1,0 +1,9 @@
+Name: NN_DL_ch01_CreditMLP
+Published in: NN and Deep Learning with Business Applications
+Description: MLP for credit scoring — training, evaluation, ROC, feature importance
+Keywords: neural network, deep learning, credit risk, MLP, classification, PyTorch
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-24
+See also: NN_DL_ch01_Activations, NN_DL_ch01_XORViz
+Datafile: Synthetic (generated in notebook)
+Output: nn_ch01_credit_training.pdf, nn_ch01_credit_roc.pdf, nn_ch01_credit_confusion.pdf, nn_ch01_credit_importance.pdf
