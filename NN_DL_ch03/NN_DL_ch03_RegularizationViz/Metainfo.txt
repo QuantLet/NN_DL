@@ -1,8 +1,9 @@
 Name: NN_DL_ch03_RegularizationViz
 Published in: NN and Deep Learning with Business Applications
-Description: Visualize L1/L2 contours, dropout effect, bias-variance tradeoff, early stopping
-Keywords: regularization, L1, L2, dropout, bias-variance, early stopping, visualization
+Description: Visualization of regularization techniques: L1/L2, dropout, bias-variance, early stopping
+Keywords: regularization, L1, L2, dropout, early stopping, bias-variance, overfitting
 Author: Daniel Traian Pele, ASE Bucharest / IDA
 Submitted: 2026-03-24
 See also: NN_DL_ch03_FraudDetection
-Output: nn_ch03_bias_variance.pdf, nn_ch03_l2_contour.pdf, nn_ch03_dropout_diagram.pdf
+Datafile: Synthetic data (generated in notebook)
+Output: nn_ch03_bias_variance.pdf, nn_ch03_l2_contour.pdf, nn_ch03_dropout_diagram.pdf, nn_ch03_early_stopping.pdf

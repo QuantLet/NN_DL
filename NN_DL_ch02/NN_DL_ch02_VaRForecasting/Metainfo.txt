@@ -1,8 +1,9 @@
 Name: NN_DL_ch02_VaRForecasting
 Published in: NN and Deep Learning with Business Applications
-Description: MLP for 1-day Value-at-Risk forecasting on S&P 500 returns vs GARCH
-Keywords: VaR, value at risk, risk management, MLP, GARCH, S&P 500
+Description: Value-at-Risk forecasting with MLP and optimizer comparison on S&P 500 data
+Keywords: VaR, value at risk, neural network, quantile regression, S&P 500, financial risk
 Author: Daniel Traian Pele, ASE Bucharest / IDA
 Submitted: 2026-03-24
 See also: NN_DL_ch02_BackpropViz
+Datafile: S&P 500 returns (downloaded or GARCH-simulated)
 Output: nn_ch02_var_forecast.pdf, nn_ch02_var_violations.pdf, nn_ch02_optimizer_comparison.pdf

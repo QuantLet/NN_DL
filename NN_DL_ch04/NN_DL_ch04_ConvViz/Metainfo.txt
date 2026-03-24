@@ -1,8 +1,9 @@
 Name: NN_DL_ch04_ConvViz
 Published in: NN and Deep Learning with Business Applications
-Description: Visualize convolution operation, feature maps, pooling, receptive fields
-Keywords: convolution, feature map, pooling, receptive field, CNN, visualization
+Description: CNN on MNIST with filter visualization, feature maps, and confusion matrix
+Keywords: CNN, convolution, MNIST, feature maps, deep learning, image classification
 Author: Daniel Traian Pele, ASE Bucharest / IDA
 Submitted: 2026-03-24
 See also: NN_DL_ch04_FINDER
-Output: nn_ch04_convolution_2d.pdf, nn_ch04_feature_maps.pdf, nn_ch04_pooling.pdf
+Datafile: MNIST (torchvision.datasets.MNIST)
+Output: nn_ch04_convolution_2d.pdf, nn_ch04_feature_maps.pdf, nn_ch04_mnist_confusion.pdf, nn_ch04_mnist_training.pdf

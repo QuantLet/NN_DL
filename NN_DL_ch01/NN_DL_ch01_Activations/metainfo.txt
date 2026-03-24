@@ -1,8 +1,9 @@
 Name: NN_DL_ch01_Activations
 Published in: NN and Deep Learning with Business Applications
-Description: Activation functions (sigmoid, tanh, ReLU, ELU, GELU) and Universal Approximation Theorem visualizations
-Keywords: activation function, sigmoid, ReLU, tanh, UAT, universal approximation, visualization
+Description: Activation functions with derivatives and UAT demonstration
+Keywords: activation function, sigmoid, ReLU, tanh, universal approximation, neural network
 Author: Daniel Traian Pele, ASE Bucharest / IDA
 Submitted: 2026-03-24
 See also: NN_DL_ch01_CreditMLP, NN_DL_ch01_XORViz
+Datafile: None (generated in notebook)
 Output: nn_ch01_sigmoid.pdf, nn_ch01_activations.pdf, nn_ch01_relu_variants.pdf, nn_ch01_uat_bumps.pdf, nn_ch01_uat_approximation.pdf

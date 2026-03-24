@@ -1,8 +1,9 @@
 Name: NN_DL_ch01_XORViz
 Published in: NN and Deep Learning with Business Applications
-Description: Train MLP to solve XOR, visualize decision boundary and hidden representations
-Keywords: XOR, perceptron, decision boundary, MLP, hidden representation, PyTorch
+Description: XOR problem: MLP decision boundary and hidden space visualization
+Keywords: XOR, neural network, decision boundary, feature space, MLP
 Author: Daniel Traian Pele, ASE Bucharest / IDA
 Submitted: 2026-03-24
 See also: NN_DL_ch01_CreditMLP, NN_DL_ch01_Activations
+Datafile: XOR dataset (4 points, generated)
 Output: nn_ch01_xor_mlp_solution.pdf, nn_ch01_hidden_space.pdf

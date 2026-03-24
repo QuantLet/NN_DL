@@ -1,8 +1,9 @@
 Name: NN_DL_ch06_FinBERT
 Published in: NN and Deep Learning with Business Applications
-Description: FinBERT sentiment classification on financial headlines with attention visualization
-Keywords: FinBERT, transformer, sentiment analysis, financial NLP, attention
+Description: Financial sentiment analysis with FinBERT on real financial headlines
+Keywords: FinBERT, transformer, NLP, sentiment analysis, financial text, attention, HuggingFace
 Author: Daniel Traian Pele, ASE Bucharest / IDA
 Submitted: 2026-03-24
 See also: NN_DL_ch06_AttentionViz
-Output: nn_ch06_sentiment_confusion.pdf, nn_ch06_attention_heatmap.pdf, nn_ch06_sentiment_comparison.pdf
+Datafile: 50 real financial headlines (hard-coded)
+Output: nn_ch06_sentiment_confusion.pdf, nn_ch06_attention_heatmap.pdf
