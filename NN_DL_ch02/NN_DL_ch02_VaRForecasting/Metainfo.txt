@@ -1,9 +1,9 @@
 Name: NN_DL_ch02_VaRForecasting
 Published in: NN and Deep Learning with Business Applications
-Description: Value-at-Risk forecasting with MLP and optimizer comparison on S&P 500 data
-Keywords: VaR, value at risk, neural network, quantile regression, S&P 500, financial risk
+Description: Value-at-Risk forecasting with MLP quantile regression, compared with Historical Simulation and EWMA, backtested with Kupiec test
+Keywords: VaR, value at risk, neural network, quantile regression, S&P 500, financial risk, EWMA, Kupiec test, backtesting
 Author: Daniel Traian Pele, ASE Bucharest / IDA
 Submitted: 2026-03-24
 See also: NN_DL_ch02_BackpropViz
-Datafile: S&P 500 returns (downloaded or GARCH-simulated)
-Output: nn_ch02_var_forecast.pdf, nn_ch02_var_violations.pdf, nn_ch02_optimizer_comparison.pdf
+Datafile: S&P 500 returns (stooq.com or GARCH-simulated fallback)
+Output: nn_ch02_returns_timeseries.pdf, nn_ch02_var_forecasts.pdf, nn_ch02_violation_rates.pdf, nn_ch02_training_loss.pdf
