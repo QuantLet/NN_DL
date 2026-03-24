@@ -1,0 +1,8 @@
+Name: NN_DL_ch04_FINDER
+Published in: NN and Deep Learning with Business Applications
+Description: CNN for candlestick chart pattern classification and crash prediction (FINDER framework)
+Keywords: CNN, FINDER, candlestick, chart pattern, crash prediction, transfer learning
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-24
+See also: NN_DL_ch04_ConvViz
+Output: nn_ch04_finder_roc.pdf, nn_ch04_finder_confusion.pdf, nn_ch04_candlestick_examples.pdf

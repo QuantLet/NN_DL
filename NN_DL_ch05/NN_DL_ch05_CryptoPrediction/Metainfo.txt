@@ -1,0 +1,8 @@
+Name: NN_DL_ch05_CryptoPrediction
+Published in: NN and Deep Learning with Business Applications
+Description: LSTM for Bitcoin crash prediction on simulated crypto market data
+Keywords: LSTM, Bitcoin, crypto, crash prediction, time series, recurrent neural network
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-24
+See also: NN_DL_ch05_LSTMViz
+Output: nn_ch05_crypto_lstm_forecast.pdf, nn_ch05_crypto_roc.pdf, nn_ch05_crypto_comparison.pdf

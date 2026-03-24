@@ -1,0 +1,8 @@
+Name: NN_DL_ch03_FraudDetection
+Published in: NN and Deep Learning with Business Applications
+Description: MLP for fraud detection with dropout, weight decay, and class imbalance handling
+Keywords: fraud detection, regularization, dropout, weight decay, imbalanced classification
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-24
+See also: NN_DL_ch03_RegularizationViz
+Output: nn_ch03_fraud_roc.pdf, nn_ch03_fraud_confusion.pdf, nn_ch03_fraud_precision_recall.pdf
