@@ -1,8 +1,8 @@
 Name: NN_DL_ch06_TextMining
 Published in: NN and Deep Learning with Business Applications
-Description: Financial text classification using BoW, TF-IDF, and Word2Vec embeddings
-Keywords: NLP, text mining, BoW, TF-IDF, Word2Vec, financial sentiment, text classification
+Description: Financial text classification using BoW, TF-IDF, and Word2Vec + MLP
+Keywords: NLP, text mining, BoW, TF-IDF, Word2Vec, sentiment, classification
 Author: Daniel Traian Pele, ASE Bucharest / IDA
 Submitted: 2026-03-25
 See also: NN_DL_ch06_EmbeddingViz
-Output: nn_ch06_text_roc.pdf, nn_ch06_text_confusion.pdf
+Output: nn_ch06_text_comparison.pdf, nn_ch06_text_confusion.pdf
