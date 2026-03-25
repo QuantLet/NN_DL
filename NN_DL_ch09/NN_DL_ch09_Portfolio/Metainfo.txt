@@ -1,0 +1,8 @@
+Name: NN_DL_ch09_Portfolio
+Published in: NN and Deep Learning with Business Applications
+Description: Deep RL agent for multi-asset portfolio optimization
+Keywords: reinforcement learning, portfolio optimization, PPO, DQN, finance
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-25
+See also: NN_DL_ch09_RLViz
+Output: nn_ch09_cumulative_returns.pdf, nn_ch09_weight_dynamics.pdf

@@ -1,0 +1,8 @@
+Name: NN_DL_ch10_ModelRisk
+Published in: NN and Deep Learning with Business Applications
+Description: Apply SHAP to credit scoring MLP for regulatory audit
+Keywords: SHAP, model risk, explainability, credit scoring, SR 11-7
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-25
+See also: NN_DL_ch10_SHAPViz
+Output: nn_ch10_shap_waterfall.pdf, nn_ch10_shap_global.pdf

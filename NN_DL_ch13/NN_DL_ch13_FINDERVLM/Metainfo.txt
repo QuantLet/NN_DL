@@ -1,0 +1,8 @@
+Name: NN_DL_ch13_FINDERVLM
+Published in: NN and Deep Learning with Business Applications
+Description: FINDER-VLM: multimodal crash prediction combining charts and text
+Keywords: FINDER-VLM, multimodal, vision-language model, crash prediction
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-25
+See also: NN_DL_ch13_MultimodalViz
+Output: nn_ch13_findervlm_results.pdf

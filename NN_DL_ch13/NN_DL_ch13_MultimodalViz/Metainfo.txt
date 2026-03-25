@@ -1,0 +1,8 @@
+Name: NN_DL_ch13_MultimodalViz
+Published in: NN and Deep Learning with Business Applications
+Description: Visualize cross-attention between chart images and text
+Keywords: multimodal, cross-attention, visualization, VLM
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-25
+See also: NN_DL_ch13_FINDERVLM
+Output: nn_ch13_cross_attention.pdf

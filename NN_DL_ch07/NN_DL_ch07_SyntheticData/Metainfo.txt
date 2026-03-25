@@ -1,0 +1,8 @@
+Name: NN_DL_ch07_SyntheticData
+Published in: NN and Deep Learning with Business Applications
+Description: GAN for generating synthetic financial return distributions
+Keywords: GAN, synthetic data, financial returns, generative model
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-25
+See also: NN_DL_ch07_GANViz
+Output: nn_ch07_marginal_comparison.pdf, nn_ch07_acf_squared_returns.pdf

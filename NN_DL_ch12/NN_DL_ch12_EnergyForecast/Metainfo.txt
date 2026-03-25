@@ -1,0 +1,8 @@
+Name: NN_DL_ch12_EnergyForecast
+Published in: NN and Deep Learning with Business Applications
+Description: LSTM/Transformer for Romanian energy price forecasting
+Keywords: energy finance, price forecasting, LSTM, Romanian market, AI4EFin
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-25
+See also: NN_DL_ch12_VolatilityViz
+Output: nn_ch12_price_forecast.pdf

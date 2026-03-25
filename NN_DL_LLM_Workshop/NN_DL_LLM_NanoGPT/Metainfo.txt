@@ -1,0 +1,8 @@
+Name: NN_DL_LLM_NanoGPT
+Published in: NN and Deep Learning with Business Applications
+Description: Build a GPT-style language model from scratch in ~300 lines of PyTorch
+Keywords: GPT, transformer, attention, language model, nanoGPT, from scratch, PyTorch
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-25
+See also: NN_DL_ch06_AttentionViz
+Output: nn_llm_training_curve.pdf, nn_llm_attention_heads.pdf, nn_llm_next_token_dist.pdf

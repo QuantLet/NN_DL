@@ -1,0 +1,8 @@
+Name: NN_DL_ch09_RLViz
+Published in: NN and Deep Learning with Business Applications
+Description: Visualize RL training, reward curves, and policy behavior
+Keywords: RL, training curves, policy, reward, visualization
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-25
+See also: NN_DL_ch09_Portfolio
+Output: nn_ch09_training_curves.pdf, nn_ch09_action_distribution.pdf

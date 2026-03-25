@@ -1,0 +1,8 @@
+Name: NN_DL_ch11_PromptEngineering
+Published in: NN and Deep Learning with Business Applications
+Description: Prompt engineering patterns for financial analysis with LLMs
+Keywords: prompt engineering, LLM, financial analysis, zero-shot, few-shot, chain-of-thought
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-25
+See also: NN_DL_ch11_LLMVaR
+Output: nn_ch11_prompt_results.pdf
