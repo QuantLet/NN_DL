@@ -1,0 +1,8 @@
+Name: NN_DL_ch06_EmbeddingViz
+Published in: NN and Deep Learning with Business Applications
+Description: Visualize word embeddings, TF-IDF weights, and the king-queen analogy
+Keywords: word embeddings, Word2Vec, GloVe, t-SNE, visualization, NLP
+Author: Daniel Traian Pele, ASE Bucharest / IDA
+Submitted: 2026-03-25
+See also: NN_DL_ch06_TextMining
+Output: nn_ch06_word_embedding_space.pdf, nn_ch06_embedding_tsne.pdf, nn_ch06_tfidf.pdf
